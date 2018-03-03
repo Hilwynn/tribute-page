@@ -1,0 +1,16 @@
+body {
+  background-color: #668b8b;
+  margin-top: 60px;
+}
+
+a {
+  color: #5b7d7d;
+}
+
+.jumbotron {
+  background-color: #d1dcdc;
+}
+
+.row-m-t{
+  margin-top: 20px;
+}
